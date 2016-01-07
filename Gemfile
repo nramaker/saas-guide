@@ -31,6 +31,11 @@ gem 'devise'
 
 gem 'awesome_print'
 
+gem "sidekiq"
+
+gem "devise-async"
+
+gem "puma"
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
